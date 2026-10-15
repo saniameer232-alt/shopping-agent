@@ -1,0 +1,550 @@
+[
+  {
+    "water": "none",
+    "lightweight": true,
+    "weight_oz": 7.8,
+    "materials": [
+      "mesh",
+      "knit upper",
+      "foam sole"
+    ],
+    "intended_use": [
+      "road running"
+    ],
+    "features": [
+      "breathable"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Lightweight, comfortable for 5K runs, but not waterproof; feet got soaked in puddle. Good value overall.",
+    "id": 1,
+    "title": "StrideLite Run 2",
+    "category": "running shoes",
+    "price": 64.0,
+    "rating": 4.4
+  },
+  {
+    "water": "waterproof",
+    "lightweight": true,
+    "weight_oz": 9.1,
+    "materials": [
+      "sealed membrane",
+      "rubber outsole"
+    ],
+    "intended_use": [
+      "running",
+      "trail running"
+    ],
+    "features": [
+      "sweat_resistant"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Keeps feet dry in heavy rain, light for long runs, but runs a little narrow.",
+    "id": 2,
+    "title": "AquaShield Trail",
+    "category": "running shoes",
+    "price": 89.0,
+    "rating": 4.6
+  },
+  {
+    "water": "waterproof",
+    "lightweight": false,
+    "weight_oz": 12.5,
+    "materials": [
+      "leather",
+      "mesh",
+      "rubber"
+    ],
+    "intended_use": [
+      "running",
+      "road"
+    ],
+    "features": [
+      "sweat_resistant",
+      "breathable"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Dry in every storm, but a bit heavy for fast sessions, and very durable.",
+    "id": 3,
+    "title": "StormRunner Pro",
+    "category": "running shoes",
+    "price": 129.0,
+    "rating": 4.5
+  },
+  {
+    "water": "none",
+    "lightweight": true,
+    "weight_oz": 6.9,
+    "materials": [
+      "mesh"
+    ],
+    "intended_use": [
+      "road racing"
+    ],
+    "features": [
+      "breathable"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Fast, light racing shoe; great on dry days, not suitable for rain.",
+    "id": 4,
+    "title": "BreezeFlex Racer",
+    "category": "running shoes",
+    "price": 72.0,
+    "rating": 4.2
+  },
+  {
+    "water": "waterproof",
+    "lightweight": true,
+    "weight_oz": 8.4,
+    "materials": [
+      "synthetic"
+    ],
+    "intended_use": [
+      "running"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": true,
+    "review_durability_issue": false,
+    "review_summary": "Waterproof claim contradicted; water leaks through tongue, soaking after drizzle. Otherwise comfortable.",
+    "id": 5,
+    "title": "LeakGuard Runner",
+    "category": "running shoes",
+    "price": 79.0,
+    "rating": 3.6
+  },
+  {
+    "water": "none",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [
+      "canvas",
+      "rubber"
+    ],
+    "intended_use": [
+      "casual",
+      "everyday"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Stylish and cheap, but canvas gets wet quickly in rain.",
+    "id": 6,
+    "title": "UrbanKick Canvas",
+    "category": "sneakers",
+    "price": 55.0,
+    "rating": 4.3
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [
+      "synthetic leather"
+    ],
+    "intended_use": [
+      "everyday"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": true,
+    "review_durability_issue": true,
+    "review_summary": "Water-resistant claim fails; socks soaked. Sole durability poor, falls apart after two months. Comfort initially good.",
+    "id": 7,
+    "title": "CityStep Water-Resistant",
+    "category": "sneakers",
+    "price": 68.0,
+    "rating": 3.5
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [
+      "leather",
+      "rubber"
+    ],
+    "intended_use": [
+      "casual"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Handles light rain, holds up after a year, true to size.",
+    "id": 8,
+    "title": "TrailCasual Weather",
+    "category": "sneakers",
+    "price": 85.0,
+    "rating": 4.5
+  },
+  {
+    "water": "none",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [
+      "leather",
+      "rubber"
+    ],
+    "intended_use": [
+      "casual",
+      "everyday"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Premium look, but not suitable for puddles.",
+    "id": 9,
+    "title": "PureWhite Leather",
+    "category": "sneakers",
+    "price": 95.0,
+    "rating": 4.4
+  },
+  {
+    "water": "none",
+    "lightweight": true,
+    "weight_oz": 8.0,
+    "materials": [
+      "breathable knit"
+    ],
+    "intended_use": [
+      "casual",
+      "everyday wear"
+    ],
+    "features": [
+      "breathable"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": true,
+    "review_summary": "Light, breathable sneaker with slip\u2011on comfort, but seams loosen after a few months.",
+    "id": 10,
+    "title": "FlexKnit Everyday",
+    "category": "sneakers",
+    "price": 48.0,
+    "rating": 4.0
+  },
+  {
+    "water": "none",
+    "lightweight": true,
+    "weight_oz": null,
+    "materials": [],
+    "intended_use": [
+      "everyday"
+    ],
+    "features": [
+      "wireless"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Solid everyday sound, basic wireless earbuds, decent price, average mic.",
+    "id": 11,
+    "title": "BudBasic Wireless",
+    "category": "earbuds",
+    "price": 25.0,
+    "rating": 3.9
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [],
+    "intended_use": [
+      "workouts"
+    ],
+    "features": [
+      "wireless",
+      "charging_case",
+      "long_battery",
+      "sweat_resistant"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Good battery and solid fit for workouts.",
+    "id": 12,
+    "title": "SoundNest Lite",
+    "category": "earbuds",
+    "price": 39.0,
+    "rating": 4.1
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [],
+    "intended_use": [],
+    "features": [
+      "wireless",
+      "anc",
+      "charging_case",
+      "long_battery",
+      "sweat_resistant"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Noise cancelling is surprisingly good and great for commutes.",
+    "id": 13,
+    "title": "QuietPods ANC",
+    "category": "earbuds",
+    "price": 60.0,
+    "rating": 4.5
+  },
+  {
+    "water": "none",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [],
+    "intended_use": [],
+    "features": [],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": true,
+    "review_summary": "Simple wired earbuds, reliable and cheap, but cables tangle.",
+    "id": 14,
+    "title": "WiredSimple",
+    "category": "earbuds",
+    "price": 15.0,
+    "rating": 4.0
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [],
+    "intended_use": [],
+    "features": [
+      "wireless",
+      "anc",
+      "charging_case",
+      "sweat_resistant",
+      "spatial_audio",
+      "wireless_charging",
+      "long_battery"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Fantastic sound. / Expensive but worth it.",
+    "id": 15,
+    "title": "StudioBuds Pro",
+    "category": "earbuds",
+    "price": 129.0,
+    "rating": 4.7
+  },
+  {
+    "water": "none",
+    "lightweight": true,
+    "weight_oz": 14.0,
+    "materials": [
+      "polyester"
+    ],
+    "intended_use": [
+      "school",
+      "commuting"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": true,
+    "review_summary": "Light, roomy daypack, but zippers feel cheap and may break.",
+    "id": 16,
+    "title": "DayPack Basic",
+    "category": "backpacks",
+    "price": 35.0,
+    "rating": 4.0
+  },
+  {
+    "water": "waterproof",
+    "lightweight": true,
+    "weight_oz": 18.0,
+    "materials": [
+      "TPU-coated nylon"
+    ],
+    "intended_use": [
+      "commuter"
+    ],
+    "features": [
+      "laptop_sleeve"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Dry in downpours, laptop stayed safe.",
+    "id": 17,
+    "title": "RainGuard Commuter",
+    "category": "backpacks",
+    "price": 79.0,
+    "rating": 4.4
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": 38.0,
+    "materials": [
+      "nylon"
+    ],
+    "intended_use": [
+      "trekking",
+      "hiking"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Comfortable for carrying a lot, but heavy when full.",
+    "id": 18,
+    "title": "TrekMax 40L",
+    "category": "backpacks",
+    "price": 120.0,
+    "rating": 4.6
+  },
+  {
+    "water": "waterproof",
+    "lightweight": true,
+    "weight_oz": 16.0,
+    "materials": [
+      "coated polyester"
+    ],
+    "intended_use": [
+      "commuting",
+      "travel"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": true,
+    "review_durability_issue": false,
+    "review_summary": "Waterproof claim contradicted; water leaked into backpack, but looks nice.",
+    "id": 19,
+    "title": "LeakyTote Pack",
+    "category": "backpacks",
+    "price": 45.0,
+    "rating": 3.4
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [],
+    "intended_use": [
+      "fitness"
+    ],
+    "features": [
+      "heart_rate"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Good price, but screen dim outdoors.",
+    "id": 20,
+    "title": "FitBand Basic",
+    "category": "watches",
+    "price": 29.0,
+    "rating": 3.8
+  },
+  {
+    "water": "waterproof",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [
+      "aluminum"
+    ],
+    "intended_use": [
+      "fitness",
+      "swimming"
+    ],
+    "features": [
+      "gps",
+      "heart_rate"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Accurate GPS and survived swimming.",
+    "id": 21,
+    "title": "PulseWatch 2",
+    "category": "watches",
+    "price": 89.0,
+    "rating": 4.5
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [
+      "stainless steel",
+      "leather"
+    ],
+    "intended_use": [
+      "dress",
+      "formal",
+      "daily wear"
+    ],
+    "features": [],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Elegant and great gift.",
+    "id": 22,
+    "title": "ClassicQuartz",
+    "category": "watches",
+    "price": 120.0,
+    "rating": 4.4
+  },
+  {
+    "water": "waterproof",
+    "lightweight": true,
+    "weight_oz": 10.0,
+    "materials": [
+      "nylon"
+    ],
+    "intended_use": [
+      "rain jacket",
+      "packable"
+    ],
+    "features": [
+      "packable"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Keeps dry, packs tiny.",
+    "id": 23,
+    "title": "DriftShell Rain Jacket",
+    "category": "jackets",
+    "price": 70.0,
+    "rating": 4.5
+  },
+  {
+    "water": "none",
+    "lightweight": true,
+    "weight_oz": 14.0,
+    "materials": [
+      "polyester fleece"
+    ],
+    "intended_use": [
+      "cool days"
+    ],
+    "features": [
+      "warm"
+    ],
+    "review_waterproof_contradiction": false,
+    "review_durability_issue": false,
+    "review_summary": "Very warm but not suitable for rain.",
+    "id": 24,
+    "title": "CozyFleece",
+    "category": "jackets",
+    "price": 45.0,
+    "rating": 4.3
+  },
+  {
+    "water": "water_resistant",
+    "lightweight": false,
+    "weight_oz": null,
+    "materials": [
+      "cotton-blend"
+    ],
+    "intended_use": [
+      "outdoor"
+    ],
+    "features": [
+      "warm"
+    ],
+    "review_waterproof_contradiction": true,
+    "review_durability_issue": false,
+    "review_summary": "Warm lining but leaks quickly in rain.",
+    "id": 25,
+    "title": "UrbanParka",
+    "category": "jackets",
+    "price": 110.0,
+    "rating": 3.7
+  }
+]
